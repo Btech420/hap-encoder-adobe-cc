@@ -23,10 +23,6 @@ This codec has been tested on Windows 10 and macOS Catalina.
 
 It has been tested in Adobe CC 2019 and Adobe CC 2020.
 
-## Support
-
-Users can contact happlugin@disguise.one for support.
-
 ## Installation
 
 Run the provided installer.
