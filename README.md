@@ -91,10 +91,6 @@ Please see
 
 for details.
 
-## Support
-
-Users can contact happlugin@disguise.one for support.
-
 ## Known issues
 
 Performing multiple parallel exports in Media Encoder may cause the system to become unresponsive, although the operation should eventually complete.
